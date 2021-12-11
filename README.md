@@ -1,9 +1,9 @@
-# Model-Window 🪟👨🏻‍💻
+# Model-Window 💻💻
 
 ## Description 📝
 
-<p>This repository contains a Model window. This repository was made to understand how we can manipulate classes in JavaScript. <br>
-You can play this game by clicking here -- <a href="https://msaini0r.github.io/Guess-My-Number/">Link</a><br></p>
+<p>This repository contains a model window & you can close the modal window by clicking on Esc or on cross sign. This repository was made to understand how we can manipulate classes in JavaScript. <br>
+You can play this game by clicking here -- <a href="https://msaini0r.github.io/Model-Window/">Link</a><br></p>
 
 ## Preview ✅
 <!-- <h1 align="center"> Preview ✅</h1> -->
